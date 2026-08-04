@@ -4,7 +4,7 @@
 - POST /auth/login : Đăng nhập, trả về JWT (Public)
 - POST /auth/register : Đăng ký tài khoản (Public)
 
-## course-service (cổng 8082)
+## course-service (cổng 8080)
 - GET /courses : Danh sách, có search + phân trang (Public)
 - GET /courses/{id} : Chi tiết 1 môn học (Public)
 - POST /courses : Thêm môn học (ADMIN)
